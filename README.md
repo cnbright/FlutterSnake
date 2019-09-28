@@ -4,7 +4,7 @@
 
 &emsp;&emsp;上下左右控制方向，strat/stop控制开始暂停，AB控制速
 
-&emsp;&emsp;结束界面,&前是得分，&后是刷新事件，单位ms
+&emsp;&emsp;结束界面,&前是得分，&后是刷新时间，单位ms
 
 <table>
     <tr>

@@ -6,6 +6,8 @@
 
 &emsp;&emsp;结束界面,&前是得分，&后是刷新时间，单位ms
 
+&emsp;&emsp;key.properties内参数已经删除
+
 <table>
     <tr>
         <td ><center><img src="./images/1.png"></center></td>
